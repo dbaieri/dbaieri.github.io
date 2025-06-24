@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/fgd-bicocca
 venue: "University of Milano-Bicocca, DiSCO"
-date: 2024/2025
+date: 2025-02-01
 location: "Milan, Italy"
 ---
 
