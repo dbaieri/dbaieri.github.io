@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/newton
 excerpt: "A generalization of the 2D Newton's fractal pattern to three dimensions for pattern generation."
 date: 2022-07-22
-venue: "SIGGRAPH '22"
+venue: "SIGGRAPH"
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3532719.3543211'
 bibtexurl: '/files/newton-bibtex.bib'
 citation: "Filippo Maggioli, Daniele Baieri, Simone Melzi, and Emanuele Rodolà. 2022. Newton’s Fractals on Surfaces via Bicomplex Algebra. In ACM SIGGRAPH 2022 Posters (SIGGRAPH '22). Association for Computing Machinery, New York, NY, USA, Article 65, 1–2"

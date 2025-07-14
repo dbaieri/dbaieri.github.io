@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/dolphins
 excerpt: 'A method for inferring the 3D shape of dolphins from monocular drone-shot videos.'
 date: 2025-06-12
-venue: 'CV4Animals (CVPR 2025 Workshop)'
+venue: 'CV4Animals (CVPR Workshop)'
 paperurl: 'https://arxiv.org/abs/2504.15782'
 bibtexurl: '/files/dolphins-bibtex.bib'
 citation: 'Daniele Baieri, Riccardo Cicciarella, Michael Krützen, Emanuele Rodolà and Silvia Zuffi. Model-based metric 3D shape and motion reconstruction of wild bottlenose dolphins in drone-shot videos. arXiv preprint. arXiv:2504.15782, 2025'

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/rematching
 excerpt: 'Scaling shape correspondence algorithms through a very efficient, topology- and geometry-preserving remeshing algorithm.'
 date: 2024-12-02
-venue: 'European Conference on Computer Vision (2024)'
+venue: 'European Conference on Computer Vision'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-72913-3_11'
 bibtexurl: 'https://citation-needed.springer.com/v2/references/10.1007/978-3-031-72913-3_11?format=bibtex&flavour=citation'
 citation: 'Filippo Maggioli, Daniele Baieri, Emanuele Rodolà, Simone Melzi. ReMatching: Low-Resolution Representations for Scalable Shape Correspondence. ECCV 2024. Lecture Notes in Computer Science, vol 15095.'
