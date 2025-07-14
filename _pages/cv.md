@@ -11,36 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computer Science, Sapienza University of Rome, 2024. Advisor: Prof. [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/)
+* M.Sc. in Computer Science, Sapienza University of Rome, 2021
+* B.Sc. in Computer Science, Sapienza University of Rome, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024/2025: PostDoc Researcher
+  * University of Milano-Bicocca, DiSCo
+  * Research activity on **cross-representation shape matching** and **local geometry representations**
+  * Tutored the department's *Foundations of Game Design* course
+  * Research Group: DiG-AiR (Prof. [Simone Melzi](https://sites.google.com/site/melzismn))
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -61,4 +43,24 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewing for top-tier Computer Vision and Artificial Intelligence conferences: 
+    * NeurIPS
+    * CVPR
+    * ECCV
+    * ICCV
+* Reviewing for relevant venues in Computer Graphics venues:
+    * Computer Graphics Forum
+    * Computers and Graphics
+    * Symposium on Geometry Processing
+
+Skills
+======
+* Coding
+  * Python
+  * C++
+  * CUDA
+  * C#
+* Graphics/Game Design:
+  * Unity
+  * Unreal Engine
+  * Blender

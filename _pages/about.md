@@ -18,3 +18,5 @@ If you want to chat about research of one of my other interests, feel free to co
  
 * 
 * ~~ECCV 2024, Milan, IT~~
+* ~~IGS 2023, Genoa, IT~~
+* ~~SIGGRAPH 2022, Vancouver, CA~~
