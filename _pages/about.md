@@ -13,7 +13,7 @@ I received my Ph.D. from Sapienza University of Rome in 2024, where I was tutore
 My research goal is to empower 3D artists with intelligent, efficient tools for 3D graphics production pipelines.
 Specifically, my research interests include **neural representations**, **Gaussian splatting**, and **geometric deep learning**.
 
-My other interests in life include music, sports, cooking, gaming and traveling. 
+I have several non-research interests, including (but not limited to) music, sports, cooking, gaming and traveling. 
 If you want to chat about research of one of my other interests, feel free to contact me! Also, I will be at the following conferences:
  
 * 
