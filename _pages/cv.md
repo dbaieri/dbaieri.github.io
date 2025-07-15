@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, Sapienza University of Rome, 2024. Advisor: Prof. [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/)
+* Ph.D. in Computer Science, Sapienza University of Rome, 2024 (Advisor: Prof. [Emanuele Rodolà](https://gladia.di.uniroma1.it/authors/rodola/))
 * M.Sc. in Computer Science, Sapienza University of Rome, 2021
 * B.Sc. in Computer Science, Sapienza University of Rome, 2019
 
 Work experience
 ======
 * 2024/2025: PostDoc Researcher
-  * University of Milano-Bicocca, DiSCo
+  * University of Milano-Bicocca, DISCo
   * Research activity on **cross-representation shape matching** and **local geometry representations**
   * Tutored the department's *Foundations of Game Design* course
   * Research Group: DiG-AiR (Prof. [Simone Melzi](https://sites.google.com/site/melzismn))
@@ -48,7 +48,7 @@ Service and leadership
     * CVPR
     * ECCV
     * ICCV
-* Reviewing for relevant venues in Computer Graphics venues:
+* Reviewing for high-impact venues in Computer Graphics:
     * Computer Graphics Forum
     * Computers and Graphics
     * Symposium on Geometry Processing
