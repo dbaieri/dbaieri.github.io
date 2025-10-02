@@ -20,3 +20,13 @@ If you want to chat about research of one of my other interests, feel free to co
 * ~~ECCV 2024, Milan, IT~~
 * ~~IGS 2023, Genoa, IT~~
 * ~~SIGGRAPH 2022, Vancouver, CA~~
+
+# News
+
+
+
+*(18/09/25)* My paper "Implicit-ARAP: Efficient Handle-Guided Neural Field Deformation via Local Patch Meshing" was accepted at NeurIPS 2025! :smiley: :tada:
+
+`#3dig` `#gladia` `#geometryinmachinelearning`
+
+---
