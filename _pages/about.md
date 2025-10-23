@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PostDoc researcher, currently in the DiG-AiR group led by Prof. Simone Melzi, at University of Milano-Bicocca.
+I am a PostDoc researcher, currently in the 3DiG group led by Prof. Simone Melzi, at University of Milano-Bicocca.
 I received my Ph.D. from Sapienza University of Rome in 2024, where I was tutored by Prof. Emanuele Rodolà.
 
 My research goal is to empower 3D artists with intelligent, efficient tools for 3D graphics production pipelines.
