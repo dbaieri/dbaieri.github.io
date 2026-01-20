@@ -24,6 +24,9 @@ If you want to chat about research of one of my other interests, feel free to co
 
 # News
 
+*(20/01/26)* I will give a talk at Politecnico di Milano this Thursday (22/01). See you there! :loudspeaker:
+
+`#talks` `#announcement` `#polimi`
 
 *(12/01/26)* I just won Lamarr Institute funding for a research visit at the University of Bonn next Spring! :fire:
 
