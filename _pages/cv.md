@@ -46,7 +46,7 @@ Grants
 ======
 * Lamarr Stipendium
   * Funding living expenses for a research visit of 3 months at the University of Bonn
-  * Total funding: 9000€
+  * Total funding: 11000€
 * Sapienza University Research Starting Grant 
   * Internal grant for Ph.D. students, funding travel and equipment
   * Total funding: 1332€

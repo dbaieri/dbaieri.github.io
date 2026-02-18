@@ -24,6 +24,11 @@ If you want to chat about research of one of my other interests, feel free to co
 
 # News
 
+*(11/02/26)* Unfortunately I wasn't funded, but I got a Seal of Excellence for my MSCA submission (scored 88.4%). Trying again next year :hourglass:
+
+`#funding` `#msca` `#europe`
+
+
 *(20/01/26)* I will give a talk at Politecnico di Milano this Thursday (22/01). See you there! :loudspeaker:
 
 `#talks` `#announcement` `#polimi`
