@@ -24,6 +24,12 @@ Feel free to contact me for collaborations or other inquiries! Also, I will be a
 
 # News
 
+
+*(17/03/26)* I won a [Humboldt Foundation](https://www.humboldt-foundation.de/en/) PostDoc Fellowship for a year-long research stay at UB! :trophy:
+
+`#funding` `#humboldt` `#germany` `#ub`
+
+
 *(11/02/26)* Unfortunately I wasn't funded, but I got a Seal of Excellence for my MSCA submission (scored 88.4%). Trying again next year :hourglass:
 
 `#funding` `#msca` `#europe`
@@ -33,9 +39,10 @@ Feel free to contact me for collaborations or other inquiries! Also, I will be a
 
 `#talks` `#announcement` `#polimi`
 
+
 *(12/01/26)* I just won Lamarr Institute funding for a research visit at the University of Bonn next Spring! :fire:
 
-`#lamarr` `#ub` `#visiting`
+`#funding` `#lamarr` `#visiting` `#ub`
 
 
 *(08/12/25)* NeurIPS was a blast! Thanks to anyone who came to our presentation :relaxed:
