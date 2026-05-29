@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Academic Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,8 +15,12 @@ Education
 * M.Sc. in Computer Science, Sapienza University of Rome, 2021
 * B.Sc. in Computer Science, Sapienza University of Rome, 2019
 
-Academic appointments
+Academic Appointments
 ======
+* 2026/2027: Humboldt PostDoc Fellow
+  * University of Bonn, Institut für Informatik
+  * Project: *LENS: Rethinking Geometric Deep Learning via Local Embeddings for Neural Surfaces*
+  * Research Group: Geometry in Machine Learning (Prof. [Zorah Lähner](https://geometryinml.cs.uni-bonn.de/))
 * Spring 2026: Visiting PostDoc
   * University of Bonn, Institut für Informatik
   * Funded by [Lamarr Institute](https://lamarr-institute.org/)
@@ -44,6 +48,9 @@ Talks
 
 Grants
 ======
+* Humboldt PostDoc Fellowship
+  * Salary grant for a research stay of 1 year at the University of Bonn
+  * Project: *LENS: Rethinking Geometric Deep Learning via Local Embeddings for Neural Surfaces*
 * Lamarr Stipendium
   * Funding living expenses for a research visit of 3 months at the University of Bonn
   * Total funding: 11000€
@@ -53,6 +60,7 @@ Grants
 
 Awards
 ======
+* CVPR 2026 Outstanding Reviewer
 * ECCV 2024 Outstanding Reviewer
 * Sapienza University Excellent Graduate A.Y. 2020/21
   
@@ -65,16 +73,11 @@ Teaching
 Service and leadership
 ======
 * Reviewing for top-tier Computer Vision and Artificial Intelligence conferences: 
-    * NeurIPS
-    * CVPR
-    * ECCV
-    * ICCV
+    * NeurIPS, CVPR, ECCV, ICCV
 * Reviewing for high-impact venues in Computer Graphics:
-    * Computer Graphics Forum
-    * Computers and Graphics
-    * Symposium on Geometry Processing
+    * Computer Graphics Forum, Computers and Graphics, Symposium on Geometry Processing
 
-Skills
+<!-- Skills
 ======
 * Coding
   * Python
@@ -84,4 +87,4 @@ Skills
 * Graphics/Game Design:
   * Unity
   * Unreal Engine
-  * Blender
+  * Blender -->
