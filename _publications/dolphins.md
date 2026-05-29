@@ -1,7 +1,7 @@
 ---
 title: "Model-based Metric 3D Shape and Motion Reconstruction of Wild Bottlenose Dolphins in Drone-Shot Videos"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/dolphins
 excerpt: 'A method for inferring the 3D shape of dolphins from monocular drone-shot videos.'
 date: 2026-05-28
