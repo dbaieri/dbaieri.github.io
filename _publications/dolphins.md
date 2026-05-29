@@ -6,7 +6,7 @@ permalink: /publication/dolphins
 excerpt: 'A method for inferring the 3D shape of dolphins from monocular drone-shot videos.'
 date: 2026-05-28
 venue: 'International Journal of Computer Vision'
-paperurl: 'https://arxiv.org/abs/2504.15782'
+paperurl: 'https://doi.org/10.1007/s11263-026-02906-z'
 bibtexurl: '/files/dolphins-bibtex.bib'
 citation: 'Daniele Baieri, Riccardo Cicciarella, Michael Krützen, Emanuele Rodolà and Silvia Zuffi. Model-based metric 3D shape and motion reconstruction of wild bottlenose dolphins in drone-shot videos. Int J Comput Vis 134, 293 (2026). https://doi.org/10.1007/s11263-026-02906-z'
 ---
