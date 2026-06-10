@@ -24,6 +24,10 @@ Feel free to contact me for collaborations or other inquiries! Also, I will be a
 
 # News
 
+*(28/05/26)* :new: paper published on IJCV: "Model-based metric 3D shape and motion reconstruction of wild bottlenose dolphins in drone-shot videos" in collab with CNR and University of Zürich :dolphin:
+
+`#papers` `#ijcv`
+
 
 *(17/03/26)* I won a [Humboldt Foundation](https://www.humboldt-foundation.de/en/) PostDoc Fellowship for a year-long research stay at UB! :trophy:
 
@@ -47,11 +51,11 @@ Feel free to contact me for collaborations or other inquiries! Also, I will be a
 
 *(08/12/25)* NeurIPS was a blast! Thanks to anyone who came to our presentation :relaxed:
 
-`#neurips` `#sandiego` `#implicit-arap`
+`#neurips` `#sandiego` `#talks`
 
 
 *(18/09/25)* My paper "Implicit-ARAP: Efficient Handle-Guided Neural Field Deformation via Local Patch Meshing" was accepted at NeurIPS 2025! :smiley: :tada:
 
-`#3dig` `#gladia` `#gml`
+`#papers` `#gladia` `#3dig` 
 
 ---
