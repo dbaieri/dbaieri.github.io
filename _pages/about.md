@@ -24,9 +24,14 @@ Feel free to contact me for collaborations or other inquiries! Also, I will be a
 
 # News
 
-*(28/05/26)* :new: paper published on IJCV: "Model-based metric 3D shape and motion reconstruction of wild bottlenose dolphins in drone-shot videos" in collab with CNR and University of Zürich :dolphin:
+*(18/06/26)* "FUSE: A Flow-based Mapping Between Shapes" was accepted at ECCV! Great paper from a great team at 3DiG :beers:
 
-`#papers` `#ijcv`
+`#papers` `#eccv` `#matching`
+
+
+*(28/05/26)* :new: paper published in IJCV: "Model-based metric 3D shape and motion reconstruction of wild bottlenose dolphins in drone-shot videos" in collab with CNR and University of Zürich :dolphin:
+
+`#papers` `#ijcv` `#reconstruction`
 
 
 *(17/03/26)* I won a [Humboldt Foundation](https://www.humboldt-foundation.de/en/) PostDoc Fellowship for a year-long research stay at UB! :trophy:

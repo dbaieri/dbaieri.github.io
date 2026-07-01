@@ -29,7 +29,7 @@ Academic Appointments
   * University of Milano-Bicocca, DISCo
   * Research activity on **cross-representation shape matching** and **local geometry representations**
   * Tutored the department's *Foundations of Game Design* course
-  * Research Group: DiG-AiR (Prof. [Simone Melzi](https://3diglab.github.io/))
+  * Research Group: 3DiG (Prof. [Simone Melzi](https://3diglab.github.io/))
 * November 2023: Visiting Ph.D. student
   * University of Siegen, Institute for Vision and Graphics
   * Research Group: Computer Vision Group (Prof. [Michael Möller](https://www.vsa.informatik.uni-siegen.de/en))
