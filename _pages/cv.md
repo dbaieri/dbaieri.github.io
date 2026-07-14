@@ -34,18 +34,6 @@ Academic Appointments
   * University of Siegen, Institute for Vision and Graphics
   * Research Group: Computer Vision Group (Prof. [Michael Möller](https://www.vsa.informatik.uni-siegen.de/en))
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-
 Grants
 ======
 * Humboldt PostDoc Fellowship
@@ -61,9 +49,22 @@ Grants
 Awards
 ======
 * CVPR 2026 Outstanding Reviewer
+* MSCA 2025 Seal of Excellence (PostDoctoral Fellowships)
 * ECCV 2024 Outstanding Reviewer
 * Sapienza University Excellent Graduate A.Y. 2020/21
   
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
