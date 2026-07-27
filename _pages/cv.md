@@ -48,6 +48,7 @@ Grants
 
 Awards
 ======
+* ECCV 2026 Outstanding Reviewer
 * CVPR 2026 Outstanding Reviewer
 * MSCA 2025 Seal of Excellence (PostDoctoral Fellowships)
 * ECCV 2024 Outstanding Reviewer
