@@ -16,13 +16,19 @@ Specifically, my research interests include **neural representations**, **Gaussi
 I have several non-research interests, including (but not limited to) music, sports, food, gaming and traveling. 
 Feel free to contact me for collaborations or other inquiries! Also, I will be at the following conferences:
  
-* ECCV 2026, Malmö, SWE
+* ~~ECCV 2026, Malmö, SWE~~
 * ~~NeurIPS 2025, San Diego CA, USA~~
 * ~~ECCV 2024, Milan, IT~~
 * ~~IGS 2023, Genoa, IT~~
 * ~~SIGGRAPH 2022, Vancouver, CA~~
 
 # News
+
+
+*(18/09/26)* Always great to be at ECCV! Lots of people came to our poster, and I think no one figured out that FUSE is not actually an acronym 🌝
+
+`#eccv` `#malmö` `#talks`
+
 
 *(18/06/26)* "FUSE: A Flow-based Mapping Between Shapes" was accepted at ECCV! Great paper from a great team at 3DiG :beers:
 
